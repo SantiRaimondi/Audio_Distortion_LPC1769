@@ -12,3 +12,4 @@ The code provided has all proper comments about the effects but in summary this 
 
 For more information about the effects you can visit: https://www.electrosmash.com/forum/pedalshield-uno/114-how-to-start-programming-pedalshield-uno?lang=en
  
+For a Drivers managing tutorial visit: https://gitlab.com/GabrielEValenzuela/electronicadigital_iii
