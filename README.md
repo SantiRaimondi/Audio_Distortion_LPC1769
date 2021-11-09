@@ -1,4 +1,4 @@
-# LPC1769-Audio-Distortioner
+# Audio_Distortion_LPC1769
 ---
 Here is the sample code of an audio distortioner implemented in the NXP LPC1769 breakout board using some drivers.
 
